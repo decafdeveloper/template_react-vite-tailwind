@@ -1,11 +1,11 @@
-# React.js + Vite.js + TailwindCSS
+# Vite React w/ Tailwind CSS & Flowbite
 
-This is a skeleton template for React + Vite + Tailwind
+This is a skeleton template for Vite, React, Tailwind & Flowbite
 
 ### Install
 
 ```
-npx tiged decafdeveloper/template_react-vite-tailwind <your-repo-name>
+npx tiged decafdeveloper/template_vite-react-tailwind-flowbite <your-repo-name>
 ```
 
 ```
@@ -24,5 +24,6 @@ npm run dev
 
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Flowbite](https://flowbite.com)
 - [Tiged](https://github.com/tiged/tiged)
