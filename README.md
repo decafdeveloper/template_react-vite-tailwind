@@ -1,11 +1,11 @@
-# Vite ReactJS + TailwindCSS
+# React.js + Vite.js + TailwindCSS
 
-This is a barebones vite react javascipt project with tailwindcss.
+This is a skeleton template for React + Vite + Tailwind
 
 ### Install
 
 ```
-npx tiged alexmnet/vite-react-tailwind <your-repo-name>
+npx tiged decafdeveloper/template_react-vite-tailwind <your-repo-name>
 ```
 
 ```
