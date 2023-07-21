@@ -7,7 +7,7 @@ This is a skeleton template for Vite, React, Tailwind & Flowbite
 ### Install
 
 ```
-$ npx tiged decafdeveloper/template_vite-react-tailwind-flowbite <your-repo-name>
+$ npx tiged decafdevio/template_vite-react-tailwind-flowbite <your-repo-name>
 $ cd <your-repo-name>
 $ npm install
 $ npm run dev
